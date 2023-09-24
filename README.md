@@ -63,6 +63,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashim-nepal/ashim-nepal/output/snake.svg" alt="Snake animation" />
-
 ###
