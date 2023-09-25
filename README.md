@@ -29,12 +29,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asnp_ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asnp_ash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashim-nepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-nepal" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashimnepalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashimnepalai" height="30" width="40" /></a>
-<a href="https://fb.com/ashim.nepal.9674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim.nepal.9674" height="30" width="40" /></a>
-<a href="https://instagram.com/nepal_ashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nepal_ashim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nepalashim400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nepalashim400" height="30" width="40" /></a>
+<a href="https://twitter.com/asnp_ash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asnp_ash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashim-nepal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-nepal" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashimnepalai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashimnepalai" height="30" width="40" /></a>
+<a href="https://fb.com/ashim.nepal.9674" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim.nepal.9674" height="30" width="40" /></a>
+<a href="https://instagram.com/nepal_ashim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nepal_ashim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nepalashim400" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nepalashim400" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
