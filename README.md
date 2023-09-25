@@ -2,7 +2,9 @@
 <h3 align="center">I am a student, learner and programmer working in the field of Artificial Intelligence and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-nepal&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-nepal" /> </p>
-<p align="left"> <a href="https://twitter.com/asnp_ash" target="_blank"></a> </p>
+
+
+<a href="https://twitter.com/asnp_ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asnp_ash" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on **Machine Learning**
 
