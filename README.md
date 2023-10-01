@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashim-nepal&show_icons=true&locale=en" alt="ashim-nepal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashim-nepal&" alt="ashim-nepal" /></p> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashim-nepal)](https://git.io/streak-stats)
