@@ -43,4 +43,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashim-nepal&theme=dark)](https://git.io/streak-stats)
 
 
-[![Ashim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashim-nepal&theme=github-compact)](https://github.com/ashim-nepal)
+[![Ashim Nepal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashim-nepal&theme=github-compact)](https://github.com/ashim-nepal)
