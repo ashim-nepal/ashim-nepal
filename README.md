@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashim-nepal&show_icons=true&locale=en&layout=compact" alt="ashim-nepal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashim-nepal&show_icons=true&locale=en" alt="ashim-nepal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashim-nepal&theme=transparent&show_icons=true&locale=en" alt="ashim-nepal" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashim-nepal&theme=dark)](https://git.io/streak-stats)
 
