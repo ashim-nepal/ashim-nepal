@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashim-nepal&theme=transparent&show_icons=true&locale=en" alt="ashim-nepal" /></p>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashim-nepal&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D)]
+`![GitHub Streak](https://streak-stats.demolab.com?user=ashim-nepal&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D)]
 
 
 [![Ashim Nepal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashim-nepal&theme=github-compact)](https://github.com/ashim-nepal)
