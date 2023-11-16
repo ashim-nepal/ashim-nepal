@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashim Nepal!</h1>
+<h1 align="center">Hi 👋, I am Ashim Nepal!</h1>
 <h3 align="center">I am a student, learner and programmer working in the field of Artificial Intelligence and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-nepal&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-nepal" /> </p>
