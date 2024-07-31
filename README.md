@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-nepal&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-nepal" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Django, React $ SQL**
 
-- 🌱 I’m currently learning **ML, Python, Java**
+- 🌱 I’m currently learning **AI/ML, Python, React**
 
 - 👯 I’m looking to collaborate on **-*-**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://ashimblogs.wordpress.com/](https://ashimblogs.wordpress.com/)
 
-- 💬 Ask me about **Python, Java, TensorFlow**
+- 💬 Ask me about **Python, AI/ML, TensorFlow, Django, React**
 
 - 📫 How to reach me **nepalashim90@gmail.com**
 
