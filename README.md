@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-nepal&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-nepal" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Django, React & SQL**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Django, React & Postgre SQL**
 
 - 🌱 I’m currently learning **AI/ML, Python, Django, React**
 
