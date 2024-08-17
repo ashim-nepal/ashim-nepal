@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Ashim Nepal!</h1>
-<h3 align="center">I am a student, learner and programmer working in the field of Artificial Intelligence and Cyber Security.</h3>
+<h3 align="center">I am a student, learner and programmer working in the field of Artificial Intelligence and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-nepal&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-nepal" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Django, React $ SQL**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Django, React & SQL**
 
-- 🌱 I’m currently learning **AI/ML, Python, React**
+- 🌱 I’m currently learning **AI/ML, Python, Django, React**
 
 - 👯 I’m looking to collaborate on **-*-**
 
