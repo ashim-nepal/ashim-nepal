@@ -2,7 +2,7 @@
 <h3 align="center">I am a student, learner and programmer working in the field of Artificial Intelligence and Web Development.</h3>
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <p><b>Visitor count</b></p>
   <img src="https://profile-counter.glitch.me/{ashim-nepal}/count.svg" alt="Visitor's Count" />
 </div>
 
