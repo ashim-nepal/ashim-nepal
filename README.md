@@ -50,6 +50,4 @@
 
 <hr>
 
-## My Contributions 🐍
-
 ![snake gif](https://github.com/ashim-nepal/ashim-nepal/blob/output/github-contribution-grid-snake-dark.svg)
