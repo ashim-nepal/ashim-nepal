@@ -47,3 +47,10 @@
 
 
 [![Ashim Nepal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashim-nepal&theme=github-compact)](https://github.com/ashim-nepal)
+
+<hr>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{ashim-nepal}/{ashim-nepal}/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
